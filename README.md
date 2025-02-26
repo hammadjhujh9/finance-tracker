@@ -95,7 +95,16 @@ This project is not licensed.
 
 ## Screenshots
 
-
+![Screenshot 1](WhatsApp%20Image%202025-02-27%20at%2002.48.22.jpeg)  
+![Screenshot 2](WhatsApp%20Image%202025-02-27%20at%2002.48.23.jpeg)  
+![Screenshot 3](WhatsApp%20Image%202025-02-27%20at%2002.48.23%20(1).jpeg)  
+![Screenshot 4](WhatsApp%20Image%202025-02-27%20at%2002.48.24.jpeg)  
+![Screenshot 5](WhatsApp%20Image%202025-02-27%20at%2002.48.24%20(1).jpeg)  
+![Screenshot 6](WhatsApp%20Image%202025-02-27%20at%2002.48.24%20(2).jpeg)  
+![Screenshot 7](WhatsApp%20Image%202025-02-27%20at%2002.48.25.jpeg)  
+![Screenshot 8](WhatsApp%20Image%202025-02-27%20at%2002.48.25%20(1).jpeg)  
+![Screenshot 9](WhatsApp%20Image%202025-02-27%20at%2002.48.25%20(2).jpeg)  
+![Screenshot 10](WhatsApp%20Image%202025-02-27%20at%2002.48.26.jpeg)  
 
 ## Future Enhancements
 
